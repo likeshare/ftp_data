@@ -1,0 +1,14 @@
+#Fat Jar Configuration File
+#Fri Aug 12 13:45:19 CST 2011
+onejar.license.required=false
+manifest.classpath=C\:\\jar\\commons-io-2.0.1.jar;C\:\\jar\\commons-net-1.4.1.jar;C\:\\jar\\jakarta-oro-2.0.8.jar;C\:\\jar\\mysql-connector-java-5.0.4-bin.jar;C\:\\jar\\ojdbc6.jar
+manifest.removesigners=true
+onejar.checkbox=true
+jarname=FTPProject_fat.jar
+manifest.mergeall=true
+manifest.mainclass=com.ftp.MyTask
+manifest.file=<createnew>
+jarname.isextern=false
+onejar.expand=
+excludes=<po|FTPProject>~com/~ftp/~FtpDemo01.class;<po|FTPProject>~com/~ftp/~IsertDB.class;<po|FTPProject>~com/~ftp/~TestFtp.class;<po|FTPProject>~com/~jcifs/;<jar|edtftpj.jar>;<jar|junit.jar>;<jar|log4j-1.2.16.jar>
+includes=

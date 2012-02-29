@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Main-Class: com.ftp.MyTask
+Class-Path: C:\jar\commons-io-2.0.1.jar;C:\jar\commons-net-1.4.1.jar;C:\jar\jakarta-oro-2.0.8.jar;C:\jar\mysql-connector-java-5.0.4-bin.jar;
+C:\jar\ojdbc6.jar
