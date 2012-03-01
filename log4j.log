@@ -1,0 +1,117 @@
+[main] DEBUG com.ftp.MyTask - In the main mathod
+[main] INFO com.ftp.MyTask - Welcom to v512 website
+[main] ERROR com.ftp.MyTask - This is an error message
+[main] DEBUG com.ftp.MyTask - In the main mathod
+[main] INFO com.ftp.MyTask - Welcom to v512 website
+[main] ERROR com.ftp.MyTask - This is an error message
+[Timer-0] INFO com.ftp.FTPService - ftp的跟目录/VAC/SubscribeInfo/52969/
+[Timer-0] INFO com.ftp.FTPService - 文件列表:[Lorg.apache.commons.net.ftp.FTPFile;@10dd1f7
+[Timer-0] INFO com.ftp.FTPService - SubscribeInfo000529692011082303080900012.req:		245 bytes
+[Timer-0] INFO com.ftp.FTPService - 读取每行数据0979000002011082303085090220110823030850201108230308500000000001                                        
+[Timer-0] INFO com.ftp.FTPService - 13039176767	
+[Timer-0] INFO com.ftp.FTPService - 9090035401	
+[Timer-0] INFO com.ftp.FTPService - 2	
+[Timer-0] INFO com.ftp.FTPService - 20090727000000	
+[Timer-0] INFO com.ftp.FTPService - 20110822105205	
+
+[Timer-0] INFO com.ftp.FTPService - ftp的跟目录/VAC/SubscribeInfo/52969/
+[Timer-0] INFO com.ftp.FTPService - SubscribeInfo000529692011083003110900013.req:		1 KB
+[Timer-0] INFO com.ftp.FTPService - 读取头文件数据1944000002011083003115190220110830031151201108300311510000000007                                        
+[Timer-0] INFO com.ftp.FTPService - 13039246058	
+[Timer-0] INFO com.ftp.FTPService - 9090035401	
+[Timer-0] INFO com.ftp.FTPService - 2	
+[Timer-0] INFO com.ftp.FTPService - 20090727000000	
+[Timer-0] INFO com.ftp.FTPService - 20110831235959	
+
+[Timer-0] INFO com.ftp.FTPService - 13039155887	
+[Timer-0] INFO com.ftp.FTPService - 9090035401	
+[Timer-0] INFO com.ftp.FTPService - 2	
+[Timer-0] INFO com.ftp.FTPService - 20090724000000	
+[Timer-0] INFO com.ftp.FTPService - 20110831235959	
+
+[Timer-0] INFO com.ftp.FTPService - 13009174676	
+[Timer-0] INFO com.ftp.FTPService - 9090035401	
+[Timer-0] INFO com.ftp.FTPService - 2	
+[Timer-0] INFO com.ftp.FTPService - 20090723000000	
+[Timer-0] INFO com.ftp.FTPService - 20110829092009	
+
+[Timer-0] INFO com.ftp.FTPService - 13019151958	
+[Timer-0] INFO com.ftp.FTPService - 9090035401	
+[Timer-0] INFO com.ftp.FTPService - 2	
+[Timer-0] INFO com.ftp.FTPService - 20090723000000	
+[Timer-0] INFO com.ftp.FTPService - 20110829164552	
+
+[Timer-0] INFO com.ftp.FTPService - 13089477220	
+[Timer-0] INFO com.ftp.FTPService - 9090035401	
+[Timer-0] INFO com.ftp.FTPService - 2	
+[Timer-0] INFO com.ftp.FTPService - 20090727000000	
+[Timer-0] INFO com.ftp.FTPService - 20110831235959	
+
+[Timer-0] INFO com.ftp.FTPService - 13089477021	
+[Timer-0] INFO com.ftp.FTPService - 9090035401	
+[Timer-0] INFO com.ftp.FTPService - 2	
+[Timer-0] INFO com.ftp.FTPService - 20090727000000	
+[Timer-0] INFO com.ftp.FTPService - 20110831235959	
+
+[Timer-0] INFO com.ftp.FTPService - 13080052971	
+[Timer-0] INFO com.ftp.FTPService - 9090035401	
+[Timer-0] INFO com.ftp.FTPService - 2	
+[Timer-0] INFO com.ftp.FTPService - 20090727000000	
+[Timer-0] INFO com.ftp.FTPService - 20110829094246	
+
+[Timer-0] INFO com.ftp.FTPService - ftp的跟目录/VAC/SubscribeInfo/52969/
+[Timer-0] INFO com.ftp.FTPService - SubscribeInfo000529692011111503090900017.req:		3 KB
+[Timer-0] INFO com.ftp.FTPService - 读取头文件数据8445000002011111503092790220111115030927201111150309270000000024                                        
+[Timer-0] INFO com.ftp.FTPService - 13089176904	
+[Timer-0] INFO com.ftp.FTPService - 9090035401	
+[Timer-0] INFO com.ftp.FTPService - 2	
+[Timer-0] INFO com.ftp.FTPService - 20090727000000	
+[Timer-0] INFO com.ftp.FTPService - 20111114011158	
+
+[Timer-0] INFO com.ftp.FTPService - 13089465366	
+[Timer-0] INFO com.ftp.FTPService - 9090035401	
+[Timer-0] INFO com.ftp.FTPService - 2	
+[Timer-0] INFO com.ftp.FTPService - 20090727000000	
+[Timer-0] INFO com.ftp.FTPService - 20111114010413	
+
+[Timer-0] INFO com.ftp.FTPService - 13069189916	
+[Timer-0] INFO com.ftp.FTPService - 9090035401	
+[Timer-0] INFO com.ftp.FTPService - 2	
+[Timer-0] INFO com.ftp.FTPService - 20090726000000	
+[Timer-0] INFO com.ftp.FTPService - 20111114010139	
+
+[Timer-0] INFO com.ftp.FTPService - 13089216600	
+[Timer-0] INFO com.ftp.FTPService - 9090035401	
+[Timer-0] INFO com.ftp.FTPService - 2	
+[Timer-0] INFO com.ftp.FTPService - 20090722000000	
+[Timer-0] INFO com.ftp.FTPService - 20111114182849	
+
+[Timer-0] INFO com.ftp.FTPService - ftp的跟目录/VAC/SubscribeInfo/52969/
+[Timer-0] INFO com.ftp.FTPService - SubscribeInfo000529692011111703110900014.req:		1 KB
+[Timer-0] INFO com.ftp.FTPService - 读取头文件数据8981000002011111703113490220111117031134201111170311340000000007                                        
+[Timer-0] INFO com.ftp.FTPService - 13194309911	
+[Timer-0] INFO com.ftp.FTPService - 9090042501	
+[Timer-0] INFO com.ftp.FTPService - 2	
+[Timer-0] INFO com.ftp.FTPService - 20090727000000	
+[Timer-0] INFO com.ftp.FTPService - 20500101000000	
+
+[Timer-0] INFO com.ftp.FTPService - 13039254495	
+[Timer-0] INFO com.ftp.FTPService - 9090035401	
+[Timer-0] INFO com.ftp.FTPService - 2	
+[Timer-0] INFO com.ftp.FTPService - 20090724000000	
+[Timer-0] INFO com.ftp.FTPService - 20111116122855	
+
+[Timer-0] INFO com.ftp.FTPService - 13009027953	
+[Timer-0] INFO com.ftp.FTPService - 9090035401	
+[Timer-0] INFO com.ftp.FTPService - 2	
+[Timer-0] INFO com.ftp.FTPService - 20090722000000	
+[Timer-0] INFO com.ftp.FTPService - 20111116233808	
+
+[Timer-0] INFO com.ftp.FTPService - ftp的跟目录/VAC/SubscribeInfo/52969/
+[Timer-0] INFO com.ftp.FTPService - add:		512 bytes
+[Timer-0] INFO com.ftp.FTPService - ftp的跟目录/VAC/SubscribeInfo/52969/
+[Timer-0] INFO com.ftp.FTPService - ftp的跟目录/VAC/SubscribeInfo/52969/
+[Timer-0] INFO com.ftp.FTPService - ftp的跟目录/VAC/SubscribeInfo/52969/
+[Timer-0] INFO com.ftp.FTPService - ftp的跟目录/VAC/SubscribeInfo/52969/
+[Timer-0] INFO com.ftp.FTPService - ftp的跟目录/VAC/SubscribeInfo/52969/
+[Timer-0] INFO com.ftp.FTPService - ftp的跟目录/VAC/SubscribeInfo/52969/
